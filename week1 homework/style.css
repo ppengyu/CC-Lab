@@ -1,0 +1,50 @@
+body{
+	background-color: #292929;
+}
+
+#toDoList {
+	width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	height: auto;
+}
+
+#toDoList h1 {
+	font-family: Arial Black, sans-serif;
+	text-align: center;
+	color: white;
+}
+	#newTask {
+	width: 445px;
+	height: 35px;
+	background-color: ##DADAD3;
+	border: solid 3px white;
+	color: navy;
+	font-size: 17px;
+}
+
+#taskList {
+	margin-top: 30px;
+}
+
+.task {
+	width: 230px;
+	margin: 5px;
+	padding: 5px;
+	background-color: #DADAD3;
+	float: left;
+
+}
+
+.task p {
+	width: 215px;
+	height: 20px;
+	background-color: #DADAD3;
+	margin: 5px;
+	font-size: 16px;
+	padding-top: 3px;
+	padding-left: 5px;
+	font-family: 'Arial', sans-serif;
+	
+}
